@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/6ad91061-e0bb-4faf-bca7-fba8c7bfa76a.svg)](https://wakatime.com/@6ad91061-e0bb-4faf-bca7-fba8c7bfa76a)
 
-I code sometimes and tinker with computers often
+I code sometimes and often find myself tinkering with computers.
 
 I'm currently looking into making a system with Linux From Scratch
 
