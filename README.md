@@ -8,4 +8,4 @@ I'm currently looking into making a system with Linux From Scratch
 
 Using Arch on my main system since 7/27/24
 
-check out my site at [j4ui.dev](j4ui.dev)
+check out my site at [j4ui.dev](https://www.j4ui.dev)
