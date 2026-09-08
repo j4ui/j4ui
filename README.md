@@ -4,7 +4,7 @@
 
 I code sometimes and often find myself tinkering with computers.
 
-I'm currently looking into making a system with Linux From Scratch
+building a mapart builder for minecraft anarchy servers
 
 Using Arch on my main system since 7/27/24
 
